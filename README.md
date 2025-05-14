@@ -1,8 +1,17 @@
 # AdventureWorks Sales Performance Report
 
+## Tools & Skills Used
+![Excel](https://img.shields.io/badge/Excel-DataProcessing-%23217346)
+![Excel](https://img.shields.io/badge/Excel-DataAnalysis-%23217346)
+![Excel](https://img.shields.io/badge/Excel-Dashboard-%23217346)
+![Google Docs](https://img.shields.io/badge/GoogleDocs-BusinessIntelligence-%234285F4)
+
+## Quick Access
 - [Raw Data](/adventureworks-sales-data.csv)
 - [Excel Dashboard](/adventure-works-sales-dashboard.xlsx)
 - [Data Analysis Report](/adventure-works-dashboard.png)
+
+## Project Overview
 
 I created a comprehensive sales performance report for AdventureWorks, analyzing key metrics and trends from July to December 2017. Using Excel, I built an interactive dashboard to visualize critical insights, including:
 
