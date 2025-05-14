@@ -1,10 +1,10 @@
 # AdventureWorks Sales Performance Report
 
 ## Tools & Skills Used
-![Excel](https://img.shields.io/badge/Excel-DataProcessing-%23217346)
-![Excel](https://img.shields.io/badge/Excel-DataAnalysis-%23217346)
+![Excel](https://img.shields.io/badge/Excel-Data%20Processing-%23217346)
+![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-%23217346)
 ![Excel](https://img.shields.io/badge/Excel-Dashboard-%23217346)
-![Google Docs](https://img.shields.io/badge/GoogleDocs-BusinessIntelligence-%234285F4)
+![Google Docs](https://img.shields.io/badge/Google%20Docs-Business%20Intelligence-%234285F4)
 
 ## Quick Access
 - [Raw Data](/adventureworks-sales-data.csv)
